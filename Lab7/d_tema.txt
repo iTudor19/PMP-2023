@@ -1,0 +1,1 @@
+Regiunea HDI acopera majoritatea punctelor date => Modelul este in general in concordanta cu observatiile, iar intervalul HDI furnizeaza o masura a incertitudinii in predictiile modelului
